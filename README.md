@@ -1,7 +1,7 @@
 # ImageVideoSorter
 Simple Python-function for sorting all unsorted image/video/other-files based on EXIF-data date into nice temporal folder structure.
 
-This code originates from the practical problem of having a large number of image/video data scattered into iPhone and iCloud and the difficulty of exporting them into Windows PC into temporally organized folders.
+This code originates from the practical problem of having a large number of image/video data scattered into iPhone and iCloud and the difficulty of exporting them into Windows PC (withput using paid services, licences or iTunes) into temporally organized folders.
 
 Specifically, this code will implement the following: 
 
